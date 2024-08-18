@@ -1,0 +1,9 @@
+node_modules/
+src/
+.github/
+.gitignore
+.tsconfig
+
+.prettierrc.js
+eslint.config.mjs
+tsconfig.tsbuildinfo
