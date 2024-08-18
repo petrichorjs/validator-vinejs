@@ -5,6 +5,10 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/petrichorjs/validator-vinejs",
+  "repository": {
+    "url": "git+https://github.com/petrichorjs/validator-vinejs.git"
+  },
   "scripts": {
     "build": "tsc"
   },
