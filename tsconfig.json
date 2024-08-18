@@ -1,0 +1,9 @@
+{
+    "extends": "@petrichorjs/config/tsconfig",
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "lib": ["ES6", "DOM"]
+    }
+}
+
