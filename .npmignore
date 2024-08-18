@@ -2,8 +2,7 @@ node_modules/
 src/
 .github/
 .gitignore
-.tsconfig
-
+tsconfig.json
 .prettierrc.js
 eslint.config.mjs
 tsconfig.tsbuildinfo
